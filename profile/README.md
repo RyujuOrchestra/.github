@@ -7,7 +7,7 @@ Feel free to join the [Tikutaku Concert Official Discord Server](https://discord
 ## Works
 - [Tikutaku Concert Forte]: Cuckoo-Clock-Themed Rhythm Game
   released for [iOS](https://apps.apple.com/jp/app/chikutakukoncheruto/id591776466), [Android](https://play.google.com/store/apps/details?id=jp.co.ryujuorchestra.tikutaku)
-- [Harmonia Heart](): Simple Character-Turn-Based Command RPG
+- [Harmonia Heart]: Simple Character-Turn-Based Command RPG
   released for [iOS](https://apps.apple.com/jp/app/id1563621787), [Android](https://play.google.com/store/apps/details?id=com.RyujuOrchestra.Smile)
 
 [Tikutaku Concert Forte]: https://ryujuorchestra.com/products/tikutakuconcert/
